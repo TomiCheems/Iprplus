@@ -4,7 +4,7 @@ from pathlib import Path
 import subprocess
 import sys
 
-IMAGE_FOLDER = r"C:\Users\Tugou\Documents\Codex\2026-11-05\zhao\work\batch_vehicle_inputs"
+IMAGE_FOLDER = r"../CCPD2020/"
 
 
 if __name__ == "__main__":
