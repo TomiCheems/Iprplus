@@ -1,6 +1,6 @@
 # 车牌批量处理
 
-打开 `run.py`，把 `IMAGE_FOLDER` 改成存放整车照片的目录。保留路径两侧的引号和前面的 `r`。保存后双击 `run.cmd`。会扫描子目录，支持 JPG、JPEG、PNG 和 BMP。
+打开 `run.py`，把 `IMAGE_FOLDER` 改成存放整车照片的目录。保留路径两侧的引号和前面的 `r`。保存后运行 `run.py`。支持 JPG、JPEG、PNG 和 BMP。
 
 每次运行在 `results` 下生成一个带时间的结果目录。
 
