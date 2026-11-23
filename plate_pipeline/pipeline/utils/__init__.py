@@ -1,0 +1,1 @@
+"""Local plate recognition package."""
