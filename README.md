@@ -12,7 +12,7 @@
 | `previews/` | 二值化图、字符框图和 OCR 标签对照图 |
 | `batch_report.json` | 每张照片的检测结果，以及候选车牌的识别、分割或拒绝原因 |
 
-在当前工作区内，启动器可以使用已配置的 Python 环境。移到另一台 Windows 电脑时，可在项目目录用 Python 3.9 创建环境并安装依赖。
+可在项目目录用 Python 3.9 创建环境并安装依赖。
 
 ```powershell
 py -3.9 -m venv .venv
